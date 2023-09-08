@@ -57,7 +57,7 @@
   border: 10px outset white;
 
 }
-html{
+.scroll{
   scroll-behavior: smooth;
 }
 .img-pic{
